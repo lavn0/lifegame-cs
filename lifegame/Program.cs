@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+public class MainClass {
   public static void Main() {
     String[][] b = new String[5][];
 
